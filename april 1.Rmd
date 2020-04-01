@@ -1,14 +1,12 @@
 ---
-title: "april 1"
-author: "Emma"
-date: "01/04/2020"
-output: 
-  html_document: 
-    keep_md: yes
+happy april fools day
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+## here is a piece of code I am inserting
 ```
 
 ## R Markdown
